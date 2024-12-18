@@ -1,0 +1,24 @@
+body {
+    background-color: bisque;
+}
+
+p {
+    color: blue;
+}
+
+.main {
+    font-weight: bold;
+}
+
+#id-text {
+    color: red;
+}
+
+.main1 {
+    color: blue;
+}
+
+
+#main-text {
+    color: green;
+}
